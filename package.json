@@ -1,0 +1,26 @@
+{
+  "name": "rails-twitter-clone",
+  "version": "1.0.0",
+  "description": "Twitttter",
+  "main": "index.js",
+  "dependencies": {
+    "stylelint": "^13.3.3",
+    "stylelint-scss": "^3.17.2",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx stylelint \"**/*.{css,scss}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oracleot/rails-twitter-clone.git"
+  },
+  "author": "Damilola Oduronbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oracleot/rails-twitter-clone/issues"
+  },
+  "homepage": "https://github.com/oracleot/rails-twitter-clone#readme"
+}
